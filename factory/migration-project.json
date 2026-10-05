@@ -1,0 +1,15 @@
+{
+	"name": "migration-project",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1d1c9261-ffa1-4b06-9dd4-45c9ff2f60c2",
+		"tenantId": "d872db55-1ea0-498b-9172-b9b43f0ac84f"
+	}
+}
